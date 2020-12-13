@@ -1,0 +1,7 @@
+*.retry
+.vagrant
+*~
+
+venv/
+hosts.ini
+*.image
